@@ -41,5 +41,6 @@ git clone https://github.com/acilka/ArgentBank-Frontend
 ## 🌐 Démo
 
 ## 📸 Aperçu
-<img width="1919" height="1013" alt="Capture d’écran 2026-02-25 142736" src="https://github.com/user-attachments/assets/7e784b85-c6fc-488e-89ba-427fae299375" />
-![023 123950a4](https://github.com/user-attachments/assets/4199444b-9142-4466-b7e8-4fbc90fbc726)
+
+![argentbank-2](https://github.com/user-attachments/assets/0776aee2-d043-4df9-9383-ba2374dbbbf5)
+![argentbank-3](https://github.com/user-attachments/assets/5474c606-2163-47a8-9bfa-ea1d740c34e5)
