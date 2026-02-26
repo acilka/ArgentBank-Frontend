@@ -1,12 +1,45 @@
-# React + Vite
+# ArgentBank — Application bancaire (React + Redux)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Application bancaire simulée avec authentification utilisateur et gestion d’état global via Redux.
 
-Currently, two official plugins are available:
+## Objectifs pédagogiques
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* Authentification sécurisée
+* Gestion d’état global
+* Communication API
+* Application métier complète
 
-## Expanding the ESLint configuration
+## Technologies utilisées
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React
+* Redux Toolkit
+* React Router
+* API REST
+* JWT Token
+
+## Fonctionnalités
+
+* Connexion utilisateur
+* Persistance session
+* Consultation profil
+* Modification données utilisateur
+* Gestion des transactions (API mock)
+
+## Compétences démontrées
+
+* State management professionnel
+* Architecture scalable
+* Gestion sécurisée des requêtes API
+* Organisation front type production
+
+## Installation
+
+```bash
+git clone https://github.com/acilka/ArgentBank-Frontend
+```
+
+## 🌐 Démo
+
+## 📸 Aperçu
+<img width="1919" height="1013" alt="Capture d’écran 2026-02-25 142736" src="https://github.com/user-attachments/assets/7e784b85-c6fc-488e-89ba-427fae299375" />
+![023 123950a4](https://github.com/user-attachments/assets/4199444b-9142-4466-b7e8-4fbc90fbc726)
